@@ -13,7 +13,7 @@ PKG_RELEASE:=15
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 
 PKG_SOURCE:=master.zip
-PKG_SOURCE_URL:=https://github.com/presisco/EasyDrcom/archive
+PKG_SOURCE_URL:=https://github.com/liuchang988/EasyDrcom/archive
 PKG_MD5SUM:=d4165da3103b17d221f3923e2a025179
 
 PKG_CONFIG_DEPENDS := EASYDRCOM_DEBUG
